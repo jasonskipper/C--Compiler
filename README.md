@@ -5,7 +5,7 @@ This is a compiler for the fictional C- programming language. There are four pha
 
 Phase One: Lexical Analysis 
 ----------------------------------  
-The "lexer" processes text using regular expressions and converts this text into an arraylist of tokens which are passed to the Parser. 
+The "lexer" processes text using regular expressions and converts this text into an arraylist of tokens which are passed to the parser. 
 
 
 
